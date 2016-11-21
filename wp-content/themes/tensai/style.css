@@ -1,0 +1,24 @@
+/*
+Theme Name: 	tensai
+Theme URI:      http://www.tensai.com/
+Description:    Thème tensai
+Author:         Laurent Khauv
+Author URI:     http://www.linkedin.com/lkhauv
+Template:       tensai                            
+Version:        0.1.0
+*/
+
+a {
+	text-decoration: none;
+}
+
+div#page {
+	width: 960px;
+	margin: auto;
+}
+
+
+body{
+	font-family : open_sanslight, Arial, sans-serif;
+	padding-top: 173px;
+}
